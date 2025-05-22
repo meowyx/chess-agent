@@ -1,6 +1,6 @@
 # Chess Agent with Gaia
 
-![Chess Agent](./chess.gif)
+![Chess Agent](./chess-agent.gif)
 
 An intelligent chess agent built with [Gaia](https://docs.gaianet.ai/intro/) that can play chess and provide strategic insights.
 
